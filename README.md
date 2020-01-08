@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/odoo-dominicana/l10n-dominicana.svg?branch=12.0)](https://travis-ci.org/odoo-dominicana/l10n-dominicana)
 [![codecov](https://codecov.io/gh/odoo-dominicana/l10n-dominicana/branch/12.0/graph/badge.svg)](https://codecov.io/gh/odoo-dominicana/l10n-dominicana)
 
+
 # Localización RD para Facturación Fiscal
 
 Este repositorio consolida los módulos utilizados para poder realizar facturación en República Dominicana desde los módulos de Ventas, Contable y Punto de Ventas.
